@@ -77,4 +77,3 @@ venv\Scripts\activate     # Windows
 </ul>
 
 <hr style="border:1px solid #ddd;">
-<p style="text-align:center; font-size:0.9em;">Made with ❤️ by <strong>Wali Ahmed</strong> | First major Flask WebApp backend project</p>
